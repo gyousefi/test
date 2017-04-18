@@ -24,3 +24,6 @@ http://www.c-sharpcorner.com/UploadFile/65794e/web-api-with-angular-js/
 
 
 http://www.joshwright.com/tips/sending-receiving-email-in-csharp
+
+
+http://www.c-sharpcorner.com/UploadFile/302f8f/Asp-Net-mvc-5-with-angularjs-part-1/
