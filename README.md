@@ -20,3 +20,7 @@ http://sibeeshpassion.com/load-data-from-database-using-web-api/
 
 
 http://www.c-sharpcorner.com/UploadFile/65794e/web-api-with-angular-js/
+
+
+
+http://www.joshwright.com/tips/sending-receiving-email-in-csharp
