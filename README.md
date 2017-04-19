@@ -31,3 +31,6 @@ http://www.c-sharpcorner.com/UploadFile/302f8f/Asp-Net-mvc-5-with-angularjs-part
 
 
 https://docs.microsoft.com/en-us/ef/core/get-started/aspnetcore/new-db
+
+
+http://www.c-sharpcorner.com/article/crud-operations-in-asp-net-core-using-entity-framework-core-code-first/
