@@ -34,3 +34,6 @@ https://docs.microsoft.com/en-us/ef/core/get-started/aspnetcore/new-db
 
 
 http://www.c-sharpcorner.com/article/crud-operations-in-asp-net-core-using-entity-framework-core-code-first/
+
+
+http://www.c-sharpcorner.com/article/code-first-migration-asp-net-core-mvc-6-with-entityframework-core/
