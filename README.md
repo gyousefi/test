@@ -27,3 +27,7 @@ http://www.joshwright.com/tips/sending-receiving-email-in-csharp
 
 
 http://www.c-sharpcorner.com/UploadFile/302f8f/Asp-Net-mvc-5-with-angularjs-part-1/
+
+
+
+https://docs.microsoft.com/en-us/ef/core/get-started/aspnetcore/new-db
