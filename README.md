@@ -37,3 +37,5 @@ http://www.c-sharpcorner.com/article/crud-operations-in-asp-net-core-using-entit
 
 
 http://www.c-sharpcorner.com/article/code-first-migration-asp-net-core-mvc-6-with-entityframework-core/
+
+http://www.c-sharpcorner.com/article/spa-using-angular-2-asp-net-core-1-1-and-entity-framework-core-part-one/
